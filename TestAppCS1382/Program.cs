@@ -12,6 +12,7 @@ namespace TestAppCS1382
         {
             Console.WriteLine("Welcome CS 1382 class to explore VS");
             Console.WriteLine("Hey, I'm creating a second version here");
+            Console.WriteLine("Changing the code in the repository");
             Console.ReadKey();
         }
     }
